@@ -1,0 +1,2 @@
+curl.exe -X POST http://localhost:5000/accounts -H "Content-Type: application/json" -d "{\"name\":\"John\"}" 
+{"name":"John"} 
