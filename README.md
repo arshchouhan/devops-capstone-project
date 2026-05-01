@@ -1,7 +1,7 @@
 # Dealer Evaluation Microservices Deployment
 
 <p align="center">
-   <img src="docs/images/Screenshot%202026-03-23%20213335.png" alt="Dealer Evaluation Platform Overview" width="900"/>
+   <img src="assets/Screenshot%202026-03-23%20213335.png" alt="Dealer Evaluation Platform Overview" width="900"/>
 </p>
 
 <p align="center">
@@ -54,21 +54,21 @@ Each service is independently deployable and communicates over REST APIs, allowi
 ### Core Experience
 
 <p align="center">
-   <img src="docs/images/Screenshot%202026-03-23%20211412.png" alt="Product Details API" width="49%"/>
-   <img src="docs/images/Screenshot%202026-03-23%20212240.png" alt="Dealer Evaluation Frontend" width="49%"/>
+   <img src="assets/Screenshot%202026-03-23%20211412.png" alt="Product Details API" width="49%"/>
+   <img src="assets/Screenshot%202026-03-23%20212240.png" alt="Dealer Evaluation Frontend" width="49%"/>
 </p>
 
 ### Real-Time Pricing and Service Flow
 
 <p align="center">
-   <img src="docs/images/Screenshot%202026-03-23%20211828.png" alt="Dealer Pricing Service" width="49%"/>
-   <img src="docs/images/Screenshot%202026-03-23%20213131.png" alt="End-to-End Integration" width="49%"/>
+   <img src="assets/Screenshot%202026-03-23%20211828.png" alt="Dealer Pricing Service" width="49%"/>
+   <img src="assets/Screenshot%202026-03-23%20213131.png" alt="End-to-End Integration" width="49%"/>
 </p>
 
 ### Cloud Deployment on IBM Code Engine
 
 <p align="center">
-   <img src="docs/images/Screenshot%202026-03-23%20214936.png" alt="IBM Code Engine Deployment" width="900"/>
+   <img src="assets/Screenshot%202026-03-23%20214936.png" alt="IBM Code Engine Deployment" width="900"/>
 </p>
 
 ## Quick Start
